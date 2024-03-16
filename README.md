@@ -5,7 +5,7 @@
 
 ## Sorteador Numero Secreto FInal
 
-### Desenvolvido no curso 2 da alura
+ Desenvolvido no curso 2 da alura
 
 ## 🔨 Funcionalidades do projeto
 
